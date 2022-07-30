@@ -1,2 +1,2 @@
-# -nodejs-databases
+# nodejs-databases
 Databases for Node.js Developers
